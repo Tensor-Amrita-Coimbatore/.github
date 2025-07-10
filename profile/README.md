@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="WhatsApp Image 2025-07-08 at 23.36.37.jpeg" alt="Tensor Club Banner" width="100%" />
+  <img src="../WhatsApp Image 2025-07-08 at 23.36.37.jpeg" alt="Tensor Club Banner" width="100%" />
 </p>
 
 <h1 align="center">🤖 Tensor Club – Amrita Vishwa Vidyapeetham, Coimbatore 🧠</h1>
